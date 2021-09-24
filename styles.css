@@ -1,0 +1,142 @@
+h1{
+    font-family:"Montserrat-Black";
+    font-size: 3rem;
+    color: #E5C3F7;
+}
+
+
+#title{
+    background-color: #2C0F55;
+}
+
+/* navigation-bar */
+
+.navbar{
+    background-color: #11052C;
+    
+}
+
+.navbar-nav a{
+    color: #E5C3F7 !important;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+}
+
+/* container */
+
+.container-fluid{
+    padding:0% 2%;
+}
+
+/* qoute */
+.qoute{
+    font-family: 'Ribeye Marrow', cursive;
+}
+.blockquote{
+    font-size: 2rem;
+}
+.blockquote-footer{
+    font-size: 1rem;
+    color:#F43B86;  
+}
+
+
+
+body{
+    font-family:"Montserrat";
+}
+
+/* history */
+
+.history{
+    background-color: #2C0F55;
+    
+
+}
+
+.hist-para{
+    
+    font-family:sans-serif;
+    color:#E5C3F7
+    
+}
+
+
+
+/* title image */
+
+.title-img{
+    width: 50%;
+    transform: rotate(180deg);
+}
+
+
+/* skill icon */
+
+.skill-icon{
+    color:#2C0F55;
+}
+
+.skills
+{
+    padding:3% 15%;
+    text-align: center;
+    font-weight:bolder;
+    font-family: "Montserrat";
+    color:#2C0F55;
+
+}
+
+/* team */
+.team
+{
+   
+    text-align: center;
+    background-color: #2C0F55;
+    color: #E5C3F7;
+}
+
+.carousel-item{
+    padding:3% 15%;
+}
+
+.dark-raven{
+    border-radius: 100%;
+    width: 25%;
+    margin: 20px;
+}
+
+.carousel-caption{
+    position: absolute;
+    top: 82%;
+    text-align: center;
+}
+
+/*pricing*/
+.pricing{
+    background-color:#2C0F55;
+}
+.card{
+    background-color: white;
+    margin-bottom: 5%;
+}
+.card-title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#2C0F55;
+}
+
+.card-header{
+    font-size: 3rem;
+    color:#5b2872;
+}
+
+.card-body{
+   
+}
+
+.ad{
+    color: #F43B86;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
