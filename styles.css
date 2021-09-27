@@ -132,11 +132,34 @@ body{
     color:#5b2872;
 }
 
-.card-body{
-   
+.hire-btn{
+ align-content: center;
+  width: 7rem;
+  height: 2.3rem;
 }
+
+.hire-btn:hover{
+    background-color: #2C0F55;
+}
+
+.handle-btn{
+    margin-left: 1%;
+    margin-right: 1%;
+
+}
+
+.handle-btn:hover{
+    color: #F43B86;
+}
+
 
 .ad{
     color: #F43B86;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.icons{   
+    text-decoration: none;
+    color: #2C0F55;
+}
+
